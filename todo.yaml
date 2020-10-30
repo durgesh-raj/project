@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: anilbidari/todo:8.0
+        image: devopslab123/todo:8.0
         ports:
         - containerPort: 8080
